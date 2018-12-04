@@ -44,3 +44,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="sagit-user 8.0.0 OPR1.170623.027 V9.5.3.0.OCAMIFA release-keys"
 
 BUILD_FINGERPRINT := Xiaomi/sagit/sagit:8.0.0/OPR1.170623.027/V9.5.3.0.OCAMIFA:user/release-keys
+
+# BaikalOS Device Maintainers
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    DEVICE_MAINTAINERS="Andrey S. Shidakov (andr68rus)"

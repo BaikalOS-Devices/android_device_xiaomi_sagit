@@ -123,6 +123,8 @@
     <!-- Button backlight -->
     <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 
+    <!-- Button brightness support -->
+    <bool name="config_button_brightness_support">true</bool>
     <integer name="config_button_brightness_default">128</integer>
 
     <!-- Hardware 'face' keys present on the device, stored as a bit field.
